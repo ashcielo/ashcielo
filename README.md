@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Aswin Chakkarapandian 👋
 
-<!--
-**ashcielo/ashcielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Frontend Developer | Building clean, modern web experiences
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I build websites using HTML, CSS, JavaScript
+- 🌐 Portfolio: [aswinchakkarapandianinfo.netlify.app](https://aswinchakkarapandianinfo.netlify.app)
+- 📫 Reach me: your-email@example.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 📊 GitHub Stats
+![Aswin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashcielo&show_icons=true&theme=radical)

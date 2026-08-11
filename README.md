@@ -5,7 +5,8 @@
 ## 🚀 About Me
 - 💻 I build websites using HTML, CSS, JavaScript
 - 🌐 Portfolio: [aswinchakkarapandianinfo.netlify.app](https://aswinchakkarapandianinfo.netlify.app)
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: aswindeepa43@gmail.com
+  
 
 ## 🛠️ Skills
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
